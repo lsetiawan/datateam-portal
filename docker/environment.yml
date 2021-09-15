@@ -1,0 +1,5 @@
+name: datateam
+channels:
+  - conda-forge
+dependencies:
+  - docker-compose
